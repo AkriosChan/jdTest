@@ -1,4 +1,4 @@
-package com.jdtest.util;
+package com.akrios.util;
 
 import java.sql.Date;
 import java.text.SimpleDateFormat;
